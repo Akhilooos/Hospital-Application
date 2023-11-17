@@ -1,0 +1,19 @@
+{
+  "hospitalData": [
+    {
+      "name": "Kerala Medical Center",
+      "patientCount": 200,
+      "location": "123 Health Street, Kochi"
+    },
+    {
+      "name": "Trivandrum General Hospital",
+      "patientCount": 120,
+      "location": "456 Care Avenue, Trivandrum"
+    },
+    {
+      "name": "Kottayam Medical College",
+      "patientCount": 600,
+      "location": "Kottayam"
+    }
+  ]
+}
